@@ -6,7 +6,7 @@ api_hash = 'YOUR_API_HASH'
 session_name = 'my_session'
 session_string = 'YOUR_PYROGRAM_SESSION'
 # Replace the value below with the chat ID of the chat you want to fetch the last message from
-chat_id = '123456789'
+chat_id = '777000'
 
 # Replace the value below with the bot token of your Telegram bot
 bot_token = 'YOUR_BOT_TOKEN'
